@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723636687309",
+    "project_id": "decorra-ee952",
+    "storage_bucket": "decorra-ee952.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723636687309:android:1bec77fa27817181547484",
+        "android_client_info": {
+          "package_name": "com.example.decorra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3s3hqPT78lgDSGhjV5vsJv4huno0Wxhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

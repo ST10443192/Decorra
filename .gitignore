@@ -1,0 +1,29 @@
+
+# IntelliJ IDEA / Android Studio
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle
+.gradle/
+.kotlin/
+**/build/
+
+# Local Android SDK configuration
+local.properties
+
+# macOS
+.DS_Store
+
+# Build outputs and native build files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore and signing credentials
+*.jks
+*.keystore

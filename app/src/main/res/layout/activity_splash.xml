@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingHorizontal="40dp">
+
+    <ImageView
+        android:layout_width="168dp"
+        android:layout_height="168dp"
+        android:background="@drawable/bg_logo_circle"
+        android:contentDescription="@string/app_name"
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/tagline"
+        android:textAppearance="?attr/textAppearanceBodyLarge" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/DecorraButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="56dp"
+        android:text="@string/login" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="12dp"
+        android:text="@string/or" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        style="@style/DecorraButtonOutlined"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:text="@string/register" />
+</LinearLayout>

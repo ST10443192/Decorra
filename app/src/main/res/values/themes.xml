@@ -1,0 +1,34 @@
+<resources>
+    <style name="Theme.Decorra" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/espresso</item>
+        <item name="colorOnPrimary">@color/cream</item>
+        <item name="colorSecondary">@color/sand</item>
+        <item name="colorOnSecondary">@color/espresso</item>
+        <item name="colorSurface">@color/cream</item>
+        <item name="colorOnSurface">@color/espresso</item>
+        <item name="colorOutline">@color/taupe</item>
+        <item name="android:colorBackground">@color/cream</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="DecorraButton" parent="Widget.Material3.Button">
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <style name="DecorraButtonOutlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="cornerRadius">12dp</item>
+        <item name="strokeColor">@color/taupe</item>
+        <item name="android:textColor">@color/espresso</item>
+    </style>
+
+    <style name="DecorraInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxStrokeColor">@color/espresso</item>
+        <item name="boxBackgroundColor">@color/white</item>
+    </style>
+</resources>

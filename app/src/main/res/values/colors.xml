@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+
+        <color name="sand">#D6BE9A</color>
+        <color name="cream">#F8F5EF</color>
+        <color name="espresso">#332923</color>
+        <color name="sage">#A5AE98</color>
+        <color name="taupe">#B8A99A</color>
+        <color name="white">#FFFFFF</color>
+        <color name="transparent">#00000000</color>
+</resources>

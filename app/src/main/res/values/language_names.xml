@@ -1,0 +1,5 @@
+<resources>
+    <string name="language_english" translatable="false">English</string>
+    <string name="language_afrikaans" translatable="false">Afrikaans</string>
+    <string name="language_zulu" translatable="false">isiZulu</string>
+</resources>

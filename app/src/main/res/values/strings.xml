@@ -1,0 +1,428 @@
+<resources>
+    <string name="app_name" translatable="false">Decorra</string>
+    <string name="tagline">Excellence in every event.</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="back">Back</string>
+    <string name="log_out">Log out</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="create_account_title">Create your account</string>
+    <string name="role_client">Client</string>
+    <string name="role_decorator">Decorator</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create an account</string>
+    <string name="have_account">I already have an account</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email_address">Email address</string>
+    <string name="email_hint" translatable="false">name@example.com</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="forgot_password">Forgot password?</string>
+
+    <string name="error_required">This field is required</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_password_short">Use at least 8 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+
+    <string name="nav_events">Events</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_more">More</string>
+    <string name="events_title">Events</string>
+    <string name="events_empty_title">No events yet</string>
+    <string name="events_empty_message">Confirmed events appear here once a quote is approved.</string>
+    <string name="setup_progress">Setup progress</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="tasks_progress">%1$d of %2$d tasks done</string>
+    <string name="admin_tasks_empty">No tasks yet. Add the first one below.</string>
+    <string name="new_task_hint">New task</string>
+    <string name="add_task">Add task</string>
+    <string name="delete_task">Delete task %1$s</string>
+
+    <string name="messages_title">Messages</string>
+    <string name="messages_empty_title">No messages yet</string>
+    <string name="messages_empty_message">Messages from clients will appear here.</string>
+
+    <string name="more_title">More</string>
+    <string name="menu_business">Business profile</string>
+    <string name="menu_team">Team management</string>
+    <string name="menu_services">Service and item management</string>
+    <string name="menu_payments">Payment and bank details</string>
+    <string name="menu_app_settings">App settings</string>
+
+    <string name="manage_title">Services and items</string>
+    <string name="tab_themes">Themes</string>
+    <string name="tab_items">Items</string>
+    <string name="themes_manage_empty">No themes yet. Add your first theme for clients to browse.</string>
+    <string name="items_manage_empty">No items yet. Add items that clients can pick for their quotes.</string>
+    <string name="add_theme">Add theme</string>
+    <string name="add_item">Add item</string>
+    <string name="theme_name">Theme name</string>
+    <string name="theme_description">Description</string>
+    <string name="theme_tags">Tags (separate with commas)</string>
+    <string name="item_name">Item name</string>
+    <string name="item_price">Price per item</string>
+    <string name="item_available_for">Available for</string>
+    <string name="all_themes">All themes</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete_theme">Delete theme %1$s</string>
+    <string name="delete_item">Delete item %1$s</string>
+    <string name="error_price_invalid">Enter a price above zero</string>
+
+    <string name="admin_greeting">Hello, %1$s</string>
+    <string name="admin_greeting_blank">Hello</string>
+    <string name="admin_dashboard_subtitle">Here is what is happening today.</string>
+    <string name="tile_new_requests">New quote requests</string>
+    <string name="tile_in_progress">Quotes in progress</string>
+    <string name="tile_upcoming_events">Upcoming events</string>
+    <string name="tile_client_messages">Client messages</string>
+    <string name="todays_schedule">Today\'s schedule</string>
+    <string name="schedule_empty">Nothing scheduled for today.</string>
+
+    <string name="admin_quotes_title">Quote requests</string>
+    <string name="filter_all">All</string>
+    <string name="filter_new">New</string>
+    <string name="filter_in_progress">In progress</string>
+    <string name="filter_drafts">Drafts</string>
+    <string name="filter_with_count">%1$s (%2$d)</string>
+    <string name="admin_quotes_empty_title">No quote requests yet</string>
+    <string name="admin_quotes_empty_message">Requests from clients will appear here.</string>
+    <string name="admin_quotes_filter_empty">No quotes match this filter.</string>
+    <string name="estimate_label">Estimate</string>
+    <string name="client_unknown">Client</string>
+
+    <string name="quote_for">Quote: %1$s</string>
+    <string name="tab_details">Details</string>
+    <string name="tab_builder">Builder</string>
+    <string name="tab_summary">Summary</string>
+    <string name="tab_notes">Notes</string>
+    <string name="client_heading">Client information</string>
+    <string name="status_heading">Status</string>
+    <string name="builder_empty_title">No items to build with</string>
+    <string name="builder_empty_message">Add items in service and item management to build this quote.</string>
+    <string name="notes_hint">Add private notes about this quote</string>
+    <string name="save_draft">Save draft</string>
+    <string name="send_to_client">Send to client</string>
+    <string name="changes_saved">Changes saved</string>
+    <string name="quote_sent">Quote sent to client</string>
+    <string name="notif_quote_update_title">Quote update</string>
+    <string name="notif_quote_update_body">Your quote has been updated by the team.</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_quotes">Quotes</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="home_welcome">Welcome back</string>
+    <string name="home_banner_title">Start your journey</string>
+    <string name="home_banner_body">Browse our portfolio and create your perfect event</string>
+    <string name="browse_portfolio">Browse portfolio</string>
+    <string name="tile_quotes">Quotes</string>
+    <string name="tile_my_designs">My designs</string>
+    <string name="tile_message_decorator">Message decorator</string>
+    <string name="tile_profile">Profile</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="portfolio_title">Portfolio</string>
+    <string name="search">Search</string>
+    <string name="close_search">Close search</string>
+    <string name="search_hint">Search themes</string>
+    <string name="portfolio_empty_title">No themes yet</string>
+    <string name="portfolio_empty_message">Themes will appear here once your decorator adds them.</string>
+    <string name="no_results_title">No matches</string>
+    <string name="no_results_message">Try a different search.</string>
+
+    <string name="theme_not_found">This theme is no longer available.</string>
+    <string name="customize_theme">Customize this theme</string>
+    <string name="add_favourite">Save theme</string>
+    <string name="remove_favourite">Remove from saved</string>
+
+    <string name="home_welcome_name">Welcome back, %1$s</string>
+
+    <string name="quotes_title">Quotes</string>
+    <string name="quotes_empty_title">No quotes yet</string>
+    <string name="quotes_empty_message">Browse the portfolio and request your first quote.</string>
+    <string name="quote_not_found">This quote is no longer available.</string>
+
+    <string name="status_draft">Draft</string>
+    <string name="status_submitted">Pending approval</string>
+    <string name="status_deposit_paid">Deposit paid</string>
+    <string name="status_in_progress">In progress</string>
+    <string name="status_complete">Complete</string>
+
+    <string name="deposit_label">Deposit (%1$d%%)</string>
+    <string name="remaining_balance">Remaining balance</string>
+    <string name="tasks_heading">Tasks</string>
+    <string name="tasks_empty">No tasks yet. Your decorator will add them here.</string>
+
+    <string name="chat_title">Your decorator</string>
+    <string name="chat_empty_title">No messages yet</string>
+    <string name="chat_empty_message">Say hello to start the conversation.</string>
+    <string name="type_message">Type a message</string>
+    <string name="send">Send</string>
+
+    <string name="notifications_empty_title">No notifications</string>
+    <string name="notifications_empty_message">Updates about your quotes and events will appear here.</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_my_events">My events</string>
+    <string name="profile_payment_history">Payment history</string>
+    <string name="profile_saved_quotes">Saved quotes</string>
+    <string name="profile_my_inspiration">My inspiration</string>
+    <string name="section_empty_title">Nothing here yet</string>
+    <string name="section_empty_message">This will fill up as you use Decorra.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="language_heading">Language</string>
+    <string name="language_hint">Choose the language used throughout the app.</string>
+    <string name="language_system">System default</string>
+
+    <string name="items_empty_title">No items available yet</string>
+    <string name="items_empty_message">Your decorator has not added any items yet. Check back soon.</string>
+    <string name="add_more_items">Add more items</string>
+    <string name="current_estimate">Current estimate</string>
+    <string name="continue_label">Continue</string>
+    <string name="price_each">%1$s each</string>
+    <string name="decrease_quantity">Decrease quantity of %1$s</string>
+    <string name="increase_quantity">Increase quantity of %1$s</string>
+    <string name="money_format" translatable="false">R%1$s</string>
+
+    <string name="event_date_title">Event date</string>
+    <string name="guests_label">Number of guests</string>
+    <string name="error_date_required">Choose an event date</string>
+    <string name="error_guests_invalid">Enter a number of guests above zero</string>
+
+    <string name="quote_breakdown_title">Quote breakdown</string>
+    <string name="event_details">Event details</string>
+    <string name="label_theme">Theme</string>
+    <string name="label_date">Date</string>
+    <string name="label_guests">Guests</string>
+    <string name="items_heading">Items</string>
+    <string name="item_line">%1$s (%2$d)</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="vat_label">VAT (%1$d%%)</string>
+    <string name="total_estimate">Total estimate</string>
+    <string name="submit_quote_request">Submit quote request</string>
+    <string name="save_as_draft">Save as draft</string>
+    <string name="quote_submitted">Quote request submitted</string>
+    <string name="draft_saved">Draft saved</string>
+
+    <string name="error_login_invalid">Incorrect email or password</string>
+    <string name="error_role_mismatch">This account was registered as a different role. Switch the toggle above.</string>
+    <string name="error_email_taken">An account with this email already exists</string>
+
+    <string name="image_label">Image</string>
+    <string name="choose_image">Choose image</string>
+    <string name="change_image">Change image</string>
+    <string name="remove_image">Remove image</string>
+    <string name="image_failed">Could not use that image. Try another one.</string>
+
+    <string name="invite_code">Decorator access code</string>
+    <string name="invite_code_helper">Ask the business owner for this code.</string>
+    <string name="error_invite_invalid">That access code is not correct</string>
+
+    <string name="team_members_heading">Team members</string>
+    <string name="invites_heading">Invite codes</string>
+    <string name="generate_invite">Create invite code</string>
+    <string name="invites_empty">No invite codes yet. Create one to add a team member.</string>
+    <string name="invite_unused">Unused</string>
+    <string name="invite_used_by">Used by %1$s</string>
+    <string name="share_invite">Share invite code</string>
+    <string name="share">Share</string>
+    <string name="invite_share_text">Join the Decorra team. Register as a decorator with this invite code: %1$s</string>
+
+    <string name="business_name">Business name</string>
+    <string name="business_phone">Phone number</string>
+    <string name="business_email">Business email</string>
+    <string name="business_address">Address</string>
+    <string name="business_about">About your business</string>
+    <string name="bank_name">Bank name</string>
+    <string name="account_holder">Account holder</string>
+    <string name="account_number">Account number</string>
+    <string name="branch_code">Branch code</string>
+    <string name="payment_reference">Payment instructions (optional)</string>
+    <string name="bank_helper">Clients see these details on their quote once it has been submitted.</string>
+    <string name="payment_details_heading">Payment details</string>
+    <string name="about_decorator_heading">Your decorator</string>
+    <string name="client_events_empty">No confirmed events yet. Your events appear here once your deposit is paid.</string>
+    <string name="saved_drafts_empty">No saved drafts. Quotes you save as a draft appear here.</string>
+    <string name="payments_empty">No payments yet</string>
+    <string name="payments_note">Payments are recorded when your decorator confirms them.</string>
+
+    <string name="events_upcoming">Upcoming events</string>
+    <string name="events_on_day">Events on %1$s</string>
+    <string name="events_day_empty">No events on this day.</string>
+    <string name="calendar_previous">Previous month</string>
+    <string name="calendar_next">Next month</string>
+    <string name="inspiration_empty_title">No inspiration yet</string>
+    <string name="inspiration_empty_message">Save photos of decor you love to share the look you want with your decorator.</string>
+    <string name="add_inspiration">Add photo</string>
+    <string name="inspiration_photo">Inspiration photo</string>
+    <string name="remove_inspiration">Remove inspiration photo</string>
+    <string name="share_quote">Share quote</string>
+    <string name="quote_share_title">Decorra quote: %1$s</string>
+
+    <string name="edit_item">Edit item</string>
+    <string name="rent_individually_label">Available to rent on its own</string>
+    <string name="rent_individually_helper">Clients can rent this item without choosing an event theme.</string>
+    <string name="rentable_tag">Rentable</string>
+    <string name="browse_events_tab">Events</string>
+    <string name="browse_rent_tab">Rent items</string>
+    <string name="search_rent_hint">Search items</string>
+    <string name="rent_empty_title">No items to rent yet</string>
+    <string name="rent_empty_message">Items your decorator offers for individual rental appear here.</string>
+    <string name="individual_rental">Individual rental</string>
+
+    <string name="phone_number">Phone number</string>
+    <string name="phone_hint" translatable="false">+27 XX XXX XXXX</string>
+    <string name="error_phone_invalid">Enter a valid phone number</string>
+
+    <string name="event_type_label">Event type</string>
+    <string name="event_type_hint">For example: Wedding or Birthday party</string>
+    <string name="venue_label">Venue</string>
+    <string name="venue_field">Venue (optional)</string>
+
+    <string name="status_approved">Approved</string>
+    <string name="status_rejected">Rejected</string>
+    <string name="filter_pending">Pending</string>
+    <string name="filter_approved">Approved</string>
+    <string name="filter_rejected">Rejected</string>
+
+    <string name="review_quote_heading">Review your quote</string>
+    <string name="review_quote_message">Your decorator has sent you an updated quote. Approve it to confirm, or decline it.</string>
+    <string name="approve_quote">Approve quote</string>
+    <string name="decline_quote">Decline quote</string>
+    <string name="decline_confirm_title">Decline this quote?</string>
+    <string name="decline_confirm_message">You can request a new quote afterwards.</string>
+    <string name="quote_rejected_message">This quote was rejected.</string>
+    <string name="quote_approved_toast">Quote approved</string>
+    <string name="quote_declined_toast">Quote declined</string>
+
+    <string name="shortage_title">Not enough stock on this date</string>
+    <string name="shortage_line">%1$s (need %2$d, %3$d free)</string>
+    <string name="shortage_message">Not enough stock on this date: %1$s</string>
+    <string name="shortage_hint">Go back and reduce the quantities, or pick another date.</string>
+
+    <string name="inventory_title">Inventory</string>
+    <string name="inventory_empty_title">No items in inventory</string>
+    <string name="inventory_empty_message">Add items in service and item management first.</string>
+    <string name="inv_total_value">Total inventory value</string>
+    <string name="inv_total_items">Total items</string>
+    <string name="inv_low_stock">Low stock alerts</string>
+    <string name="inv_critical_stock">Critical stock</string>
+    <string name="inv_search">Search inventory</string>
+    <string name="stock_status_ok">Healthy</string>
+    <string name="stock_status_low">Low stock</string>
+    <string name="stock_status_critical">Critical</string>
+    <string name="stock_status_untracked">Not tracked</string>
+    <string name="stock_line">In stock: %1$d, minimum: %2$d</string>
+    <string name="stock_untracked_line">Stock is not tracked for this item</string>
+    <string name="unit_cost_line">Unit cost %1$s, total %2$s</string>
+    <string name="restock">Restock</string>
+    <string name="restock_title">Restock %1$s</string>
+    <string name="restock_quantity">Quantity to add</string>
+    <string name="error_quantity_invalid">Enter a quantity above zero</string>
+    <string name="error_number_invalid">Enter a whole number</string>
+    <string name="menu_inventory">Inventory</string>
+    <string name="item_stock">Total stock (leave empty if not tracked)</string>
+    <string name="item_min_stock">Minimum stock level</string>
+    <string name="item_unit_cost">Unit cost (optional)</string>
+
+    <string name="tile_pending_quotations">Pending quotations</string>
+    <string name="tile_active_bookings">Active bookings</string>
+    <string name="tile_approval_rate">Approval rate</string>
+    <string name="approval_rate_none">N/A</string>
+    <string name="low_stock_alerts_heading">Low stock alerts</string>
+    <string name="stock_all_healthy">All inventory levels look healthy.</string>
+    <string name="manage">Manage</string>
+    <string name="upcoming_tasks_heading">Upcoming events</string>
+    <string name="upcoming_14_days">Confirmed events in the next 14 days.</string>
+    <string name="upcoming_none">No confirmed events in the next 14 days.</string>
+
+    <string name="alerts_title">Alerts</string>
+    <string name="alerts_empty_title">No alerts</string>
+    <string name="alerts_empty_message">New requests and updates appear here.</string>
+    <string name="mark_all_read">Mark all as read</string>
+    <string name="alerts_button">Alerts</string>
+    <string name="alerts_button_unread">Alerts, %1$d unread</string>
+
+    <string name="notif_deposit_title">Deposit received</string>
+    <string name="notif_deposit_body">Your deposit for %1$s has been received.</string>
+    <string name="notif_approved_title">Quote approved</string>
+    <string name="notif_approved_body">Your %1$s quote has been approved.</string>
+    <string name="notif_declined_title">Quote rejected</string>
+    <string name="notif_declined_body">Your %1$s quote was rejected.</string>
+    <string name="notif_new_request_title">New quotation request</string>
+    <string name="notif_new_request_body">%1$s requested a quote.</string>
+    <string name="notif_client_approved_title">Quote approved by client</string>
+    <string name="notif_client_approved_body">%1$s approved their quote.</string>
+    <string name="notif_client_declined_title">Quote rejected by client</string>
+    <string name="notif_client_declined_body">%1$s rejected their quote.</string>
+    <string name="notif_countdown_title">Event countdown</string>
+    <string name="countdown_line">%1$s: %2$s</string>
+    <string name="event_countdown_today">Your event is today</string>
+    <plurals name="event_countdown_days">
+        <item quantity="one">%d day until your event</item>
+        <item quantity="other">%d days until your event</item>
+    </plurals>
+
+    <string name="settings_edit_profile">Edit profile</string>
+    <string name="settings_change_password">Change password</string>
+    <string name="settings_notifications">Notification preferences</string>
+    <string name="profile_updated">Profile updated</string>
+    <string name="email_cannot_change">Your email address is your sign-in, so it cannot be changed here.</string>
+    <string name="password_updated">Password updated</string>
+    <string name="current_password">Current password</string>
+    <string name="error_current_password">Current password is incorrect</string>
+    <string name="error_password_same">Choose a password different from your current one</string>
+    <string name="pref_quote_updates">Quote updates</string>
+    <string name="pref_quote_updates_desc">When a quote is sent, approved or rejected</string>
+    <string name="pref_payments">Payments</string>
+    <string name="pref_payments_desc">When your deposit is received</string>
+    <string name="pref_countdown">Event countdown</string>
+    <string name="pref_countdown_desc">Days left until your event</string>
+    <string name="pref_new_requests">New quote requests</string>
+    <string name="pref_new_requests_desc">When a client submits a quote request</string>
+    <string name="pref_client_responses">Client responses</string>
+    <string name="pref_client_responses_desc">When a client approves or rejects a quote</string>
+    <string name="pref_low_stock">Low stock alerts</string>
+    <string name="pref_low_stock_desc">When items run low or sell out</string>
+
+    <string name="error_network">No internet connection. Check your network and try again.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_pending_approval">Your decorator account is waiting for approval by an existing team member.</string>
+    <string name="register_pending_message">Account created. A team member must approve your decorator access before you can sign in.</string>
+    <string name="approve">Approve</string>
+    <string name="pending_requests_heading">Waiting for approval</string>
+    <string name="pending_requests_empty">No one is waiting for approval.</string>
+    <string name="channel_messages">Messages</string>
+    <string name="reset_title">Reset password</string>
+    <string name="reset_message">Enter your account email. We will send you a link to choose a new password.</string>
+    <string name="new_password">New password</string>
+    <string name="reset_action">Send reset link</string>
+    <string name="reset_success">If an account exists for this email, a reset link has been sent.</string>
+    <string name="error_email_not_found">No account found with this email</string>
+    <string name="tile_awaiting_reply">Awaiting reply</string>
+
+    <string name="notif_prefs_hint">Choose which updates you want to see. Message notifications can also arrive on your phone when the app is closed.</string>
+
+    <string name="pref_messages">Message notifications</string>
+    <string name="pref_messages_desc">Get a notification when you receive a chat message</string>
+    <string name="system_notifications_off_title">Notifications are turned off</string>
+    <string name="system_notifications_off_desc">Decorra cannot show notifications on this phone until you allow them in the phone settings.</string>
+    <string name="open_phone_settings">Open phone settings</string>
+
+    <string name="attach">Attach</string>
+    <string name="attach_photo">Photo</string>
+    <string name="attach_document">Document (PDF)</string>
+    <string name="file_too_large">That file is bigger than 10 MB.</string>
+    <string name="upload_failed">The file could not be uploaded. Check your internet connection and try again.</string>
+    <string name="cannot_open_file">This file could not be opened. You may need a PDF viewer app.</string>
+</resources>
