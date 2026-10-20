@@ -2,7 +2,7 @@
 
 **Excellence in every event.**
 
-[![Android CI](https://github.com/OWNER/REPOSITORY/actions/workflows/android.yml/badge.svg)](https://github.com/OWNER/REPOSITORY/actions/workflows/android.yml)
+[![Android CI](https://github.com/ST10443192/REPOSITORY/actions/workflows/android.yml/badge.svg)](https://github.com/ST10443192/REPOSITORY/actions/workflows/android.yml)
 
 Decorra is an Android app for an event decor business. Clients browse themed events, build and
 submit quotes, approve them and chat with their decorator. Decorators manage themes, items,
@@ -112,7 +112,7 @@ that every phone shares them. See [Current limitations and roadmap](#current-lim
 1. Clone the repository and open it in Android Studio.
 
    ```
-   git clone https://github.com/OWNER/REPOSITORY.git
+  https://github.com/ST10443192/Decorra.git
    ```
 
 2. Complete the [Firebase setup](#firebase-setup) and place `google-services.json` in the `app`
